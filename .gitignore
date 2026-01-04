@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+yolo-venv/
+
+# YOLO outputs
+runs/
+
+# Model weights
+*.pt
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+yolo-venv/
+
+# YOLO outputs
+runs/
+
+# Model weights
+*.pt
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+yolo-venv/
+
+# YOLO outputs
+runs/
+
+# Model weights
+*.pt
